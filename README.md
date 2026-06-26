@@ -1,39 +1,41 @@
 # SWAP UMinho
 
-Projeto desenvolvido no âmbito da Unidade Curricular de **Interface Pessoa-Máquina (IPM)**.
+Project developed as part of the **Human-Computer Interaction (HCI)** course.
 
-## Grupo 15
+## Group 15
 
-Aluno1: Pedro Gomes | A104540  
-Aluno2: Pedro Teixeira | A103998  
-Aluno3: Diogo Fernandes | A104260  
-Aluno4: Jorge Fernandes | A104168  
-Aluno5: André Ribeiro | A104436  
+Student 1: Pedro Gomes | A104540  
+Student 2: Pedro Teixeira | A103998  
+Student 3: Diogo Fernandes | A104260  
+Student 4: Jorge Fernandes | A104168  
+Student 5: André Ribeiro | A104436  
 
 Figma Link: https://www.figma.com/design/QtOo9RBuAG7KWXqieMuv35/IPM-Project?node-id=0-1&t=t349c5O8YCoFVjBL-1
 
-## SWAP UMinho - Plataforma de Gestão de Turnos
+## SWAP UMinho - Shift Management Platform
 
-Aplicação web em **Nuxt 3 + Vue** para apoiar a gestão de turnos, horários e Unidades Curriculares da Licenciatura em Engenharia Informática. A plataforma disponibiliza interfaces para alunos e para o Diretor de Curso, facilitando a consulta de horários, a gestão de conflitos e a comunicação entre utilizadores.
+Web application developed with **Nuxt 3 + Vue** to support the management of shifts, schedules and Course Units for the Bachelor's Degree in Computer Engineering.
 
-## Funcionalidades
+The platform provides interfaces for students and for the Course Director, making it easier to check schedules, manage conflicts and support communication between users.
 
-- Consulta de horários semanais dos alunos
-- Gestão de turnos e Unidades Curriculares
-- Deteção de conflitos e horários incompletos
-- Dashboard com métricas de ocupação dos turnos
-- Edição de horários pelo Diretor de Curso
-- Sistema de mensagens entre alunos e Diretor de Curso
-- Notificações sobre alterações de horários
-- Exportação do horário em PDF
-- Interface multilingue
+## Features
 
-## Pré-requisitos
+- Weekly schedule consultation for students
+- Management of shifts and Course Units
+- Detection of conflicts and incomplete schedules
+- Dashboard with shift occupancy metrics
+- Schedule editing by the Course Director
+- Messaging system between students and the Course Director
+- Notifications about schedule changes
+- Schedule export to PDF
+- Multilingual interface
+
+## Prerequisites
 
 - Node.js
 - npm
 
-## Instalação
+## Installation
 
 ```bash
 git clone <repository-url>
@@ -41,35 +43,35 @@ cd trabalho-pr-tico-gp25_23
 npm install
 ```
 
-## Executar a Aplicação
+## Running the Application
 
-É necessário correr o backend e o frontend em terminais separados.
+The backend and frontend must be run in separate terminals.
 
-### 1. Iniciar o backend JSON Server
+### 1. Start the JSON Server backend
 
 ```bash
 npx json-server --watch database/leiDB.json --port 3001
 ```
 
-O backend fica disponível em:
+The backend will be available at:
 
 ```bash
 http://localhost:3001
 ```
 
-### 2. Iniciar o frontend Nuxt
+### 2. Start the Nuxt frontend
 
 ```bash
 npm run dev
 ```
 
-A aplicação fica disponível em:
+The application will be available at:
 
 ```bash
 http://localhost:3000
 ```
 
-## Build para Produção
+## Production Build
 
 ```bash
 npm run build
@@ -78,27 +80,31 @@ npm run preview
 
 ## Tech Stack
 
-- **Nuxt 3** e **Vue** - frontend
-- **Tailwind CSS** - estilos
-- **Axios** - comunicação com a API
-- **JSON Server** - backend simulado
-- **Chart.js** - gráficos e métricas
-- **jsPDF** e **html2canvas** - exportação de horários em PDF
-- **@nuxtjs/i18n** - suporte multilingue
+- **Nuxt 3** and **Vue** - frontend
+- **Tailwind CSS** - styling
+- **Axios** - API communication
+- **JSON Server** - simulated backend
+- **Chart.js** - charts and metrics
+- **jsPDF** and **html2canvas** - schedule export to PDF
+- **@nuxtjs/i18n** - multilingual support
 
-## Estrutura do Projeto
+## Project Structure
 
 ```bash
-components/     # Componentes da aplicação
-pages/          # Páginas principais
-layouts/        # Layouts da aplicação
-middleware/     # Middleware de autenticação
-plugins/        # Configuração de plugins, como Axios
-composables/    # Funções reutilizáveis
-config/         # Ficheiros de configuração
+components/     # Application components
+pages/          # Main pages
+layouts/        # Application layouts
+middleware/     # Authentication middleware
+plugins/        # Plugin configuration, such as Axios
+composables/    # Reusable functions
+config/         # Configuration files
 
 database/
-└── leiDB.json  # Base de dados simulada
+└── leiDB.json  # Simulated database
 
-i18n/lang/      # Ficheiros de tradução
+i18n/lang/      # Translation files
 ```
+
+## Note
+
+This is an academic project developed at the University of Minho.

@@ -1,0 +1,4180 @@
+{
+  "diretor_curso": [
+    {
+      "password": "ipmdc2425",
+      "notificationsProf": true,
+      "notificationsStudent": true,
+      "id": "diretordecurso@di.uminho.pt",
+      "mensagens": [
+        {
+          "id": 1745028071439,
+          "authorId": "A104540",
+          "author": "Pedro Miguel Araújo Gomes",
+          "subject": "e que",
+          "text": "tambem sei mandar mensagens\n\ncumprimentos,\na104540",
+          "receiveDate": "3:01 19/4/2025",
+          "read": true,
+          "student": false
+        },
+        {
+          "id": 1744032136082,
+          "authorId": "A104540",
+          "author": "Pedro Miguel Araújo Gomes",
+          "subject": "Demonstracao",
+          "text": "Esta é uma mensagem de teste\nFunciona??\n\nCumprimentos, A104540",
+          "receiveDate": "14:22 7/4/2025",
+          "read": false,
+          "student": true
+        },
+        {
+          "id": 1743780800900,
+          "authorId": "A104540",
+          "author": "Pedro Miguel Araújo Gomes",
+          "subject": "Preciso de Ajuda",
+          "text": "Bom dia,\nPreciso de ajudá-lo a testar se a dashboard está a funcionar corretamente.\n\nCumprimentos, A104540",
+          "receiveDate": "16:33 4/4/2025",
+          "read": true,
+          "student": true
+        },
+        {
+          "id": 1743353324525,
+          "authorId": "A104540",
+          "author": "Pedro Miguel Araújo Gomes",
+          "subject": "assuntinho",
+          "text": "anda",
+          "receiveDate": "17:48 30/3/2025",
+          "read": true,
+          "student": true
+        },
+        {
+          "id": 1743352426465,
+          "authorId": "A104540",
+          "author": "Pedro Miguel Araújo Gomes",
+          "subject": "Papo",
+          "text": "Gomes bot mano traidor\nTraidorzao\ndos enters",
+          "receiveDate": "17:33 30/3/2025",
+          "read": true,
+          "student": false
+        },
+        {
+          "id": 1743286353590,
+          "authorId": "A104540",
+          "author": "Pedro Miguel Araújo Gomes",
+          "subject": "Brother",
+          "text": "Agora tem de dar",
+          "receiveDate": "22:12 29/3/2025",
+          "read": true,
+          "student": false
+        }
+      ]
+    }
+  ],
+  "alunos": [
+    {
+      "password": "pedrobottt",
+      "name": "Pedro Miguel Araújo Gomes",
+      "ano": 2,
+      "id": "A104540",
+      "statute": "Working Student",
+      "scheduleStatus": false,
+      "firstInscription": false,
+      "age": 20,
+      "location": "Braga",
+      "interests": [
+        "Gym",
+        "Sport",
+        "Programming"
+      ],
+      "ucs": [
+        {
+          "idUC": 1,
+          "fav": true,
+          "tp": 2,
+          "t": 5
+        },
+        {
+          "idUC": 3,
+          "fav": false,
+          "tp": 17,
+          "t": 18
+        },
+        {
+          "idUC": 6,
+          "fav": false,
+          "tp": 38,
+          "t": 39
+        },
+        {
+          "idUC": 5,
+          "fav": true,
+          "tp": 35,
+          "t": 31
+        }
+      ],
+      "mensagens": [
+        {
+          "id": 1746317525773,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "SCHEDULE POSTED NOTIFICATION",
+          "text": "Hello Pedro Miguel Araújo Gomes,\nYour schedule has been updated.\n\nBest regards,\nDiretor de Curso\n",
+          "receiveDate": "1:12 4/5/2025",
+          "read": true,
+          "student": false
+        },
+        {
+          "id": 1745028027321,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "teste mina",
+          "text": "se der vai ser goat\nlezgo\ndo teu diretor de curso fav,\ncumprimentos",
+          "receiveDate": "3:00 19/4/2025",
+          "read": true,
+          "student": false
+        },
+        {
+          "id": 1745027335132,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "Bora rei",
+          "text": "Será que vai dar agora??",
+          "receiveDate": "2:48 19/4/2025",
+          "read": false,
+          "student": false
+        },
+        {
+          "id": 1745009354728,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "Ve se funciona",
+          "text": "assim",
+          "receiveDate": "21:49 18/4/2025",
+          "read": false,
+          "student": false
+        },
+        {
+          "id": 1745009246296,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "Estou a fazer traducoes",
+          "text": "Boas so pra informar que estou a fazer traducoes, not cool",
+          "receiveDate": "21:47 18/4/2025",
+          "read": false,
+          "student": false
+        },
+        {
+          "id": 1743428827618,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "Ok",
+          "text": "Bom dia,\nNão percebo toda a exaltação mas okay.\n\nCumprimentos,\nDiretor de Curso",
+          "receiveDate": "14:47 31/3/2025",
+          "read": true,
+          "student": false
+        },
+        {
+          "id": 1743294411582,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "NóVA MENSAGEM",
+          "text": "NOVA",
+          "receiveDate": "0:26 30/3/2025",
+          "read": true,
+          "student": false
+        },
+        {
+          "id": 1743287353301,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "isabel",
+          "text": " da primeira",
+          "receiveDate": "22:29 29/3/2025",
+          "read": true,
+          "student": false
+        },
+        {
+          "id": 1743287345527,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "vai outra ",
+          "text": "kakaka",
+          "receiveDate": "22:29 29/3/2025",
+          "read": true,
+          "student": false
+        },
+        {
+          "id": 1743287331726,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "vou continuar a spamar",
+          "text": "mais 3",
+          "receiveDate": "22:28 29/3/2025",
+          "read": true,
+          "student": false
+        },
+        {
+          "id": 1743287311636,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "Vou spamar mais",
+          "text": "vao 2",
+          "receiveDate": "22:28 29/3/2025",
+          "read": true,
+          "student": false
+        },
+        {
+          "id": 1743287302918,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "Vou spamar",
+          "text": "vai uma",
+          "receiveDate": "22:28 29/3/2025",
+          "read": true,
+          "student": false
+        },
+        {
+          "id": 1743287336876,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "txux",
+          "text": "txus",
+          "receiveDate": "22:28 29/3/2025",
+          "read": true,
+          "student": false
+        },
+        {
+          "id": 174328730218,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "Vou spamar",
+          "text": "vai uma",
+          "receiveDate": "22:18 29/3/2025",
+          "read": false,
+          "student": false
+        },
+        {
+          "id": 17432873021,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "Vou spamar",
+          "text": "vai uma",
+          "receiveDate": "22:10 29/3/2025",
+          "read": false,
+          "student": false
+        },
+        {
+          "id": 1743287021,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "Vou spamar",
+          "text": "vai uma",
+          "receiveDate": "22:00 29/3/2025",
+          "read": false,
+          "student": false
+        }
+      ]
+    },
+    {
+      "password": "michaelbuble",
+      "name": "Pedro Manuel Dias Teixeira",
+      "ano": 3,
+      "id": "A103998",
+      "statute": "Normal",
+      "scheduleStatus": true,
+      "firstInscription": true,
+      "age": 50,
+      "location": "Porto",
+      "interests": [
+        "Gym",
+        "Sport",
+        "Programming"
+      ],
+      "ucs": [
+        {
+          "idUC": 1,
+          "fav": false,
+          "tp": 2,
+          "t": 5
+        },
+        {
+          "idUC": 2,
+          "fav": true,
+          "tp": 0,
+          "t": 0
+        }
+      ],
+      "mensagens": [
+        {
+          "id": 1743280406593,
+          "authorId": "A104540",
+          "author": "Pedro Miguel Araújo Gomes",
+          "subject": "BIG TESTE INCOMING",
+          "text": "Boa tarde,\nNova mensagem de teste. Se esta funcionar vai ser gg mesmo, vai ser a bica do bicador a bica do mineiro da lança.\n\nCumprimentos,\nPedro Gomes",
+          "receiveDate": "20:33 29/3/2025",
+          "read": true,
+          "student": false
+        },
+        {
+          "id": 1743272357495,
+          "authorId": "A104540",
+          "author": "Pedro Miguel Araújo Gomes",
+          "subject": "ds",
+          "text": "pronto ultima",
+          "receiveDate": "18:19 29/3/2025",
+          "read": true,
+          "student": false
+        },
+        {
+          "id": 1743272351695,
+          "authorId": "A104540",
+          "author": "Pedro Miguel Araújo Gomes",
+          "subject": "ou 2 para ver",
+          "text": "como ta o scroll",
+          "receiveDate": "18:19 29/3/2025",
+          "read": false,
+          "student": false
+        },
+        {
+          "id": 1743272344248,
+          "authorId": "A104540",
+          "author": "Pedro Miguel Araújo Gomes",
+          "subject": "mais 1",
+          "text": "de",
+          "receiveDate": "18:19 29/3/2025",
+          "read": false,
+          "student": false
+        },
+        {
+          "id": 1743272339794,
+          "authorId": "A104540",
+          "author": "Pedro Miguel Araújo Gomes",
+          "subject": "agora tenh",
+          "text": "de spamar \n\n\n\npara ver",
+          "receiveDate": "18:18 29/3/2025",
+          "read": false,
+          "student": false
+        }
+      ]
+    },
+    {
+      "password": "20ipm",
+      "name": "Maria",
+      "ano": 1,
+      "id": "A108200",
+      "statute": "Normal",
+      "scheduleStatus": false,
+      "firstInscription": false,
+      "age": 18,
+      "location": "Braga",
+      "interests": [
+        "Tecnologia",
+        "Automobilismo",
+        "Jogos de computador"
+      ],
+      "ucs": [
+        {
+          "idUC": 13,
+          "fav": true,
+          "tp": 94,
+          "t": 100
+        },
+        {
+          "idUC": 8,
+          "fav": false,
+          "tp": 56,
+          "t": 0
+        },
+        {
+          "idUC": 14,
+          "fav": false,
+          "tp": 103,
+          "t": 108
+        },
+        {
+          "idUC": 2,
+          "fav": true,
+          "tp": 10,
+          "t": 6
+        },
+        {
+          "idUC": 15,
+          "fav": true,
+          "tp": 124,
+          "t": 111
+        },
+        {
+          "idUC": 12,
+          "fav": true,
+          "tp": 91,
+          "t": 88
+        }
+      ],
+      "mensagens": [
+        {
+          "id": 1746398238453,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "SCHEDULE POSTED NOTIFICATION",
+          "text": "Olá Maria,\nO teu horário foi publicado/atualizado.\nCom os melhores cumprimentos,\nDiretor de Curso\n",
+          "receiveDate": "23:37 4/5/2025",
+          "read": false,
+          "student": false
+        },
+        {
+          "id": 1746398114942,
+          "authorId": "diretordecurso@di.uminho.pt",
+          "author": "Diretor de Curso",
+          "subject": "SCHEDULE POSTED NOTIFICATION",
+          "text": "Olá Maria,\nO teu horário foi publicado/atualizado.\nCom os melhores cumprimentos,\nDiretor de Curso\n",
+          "receiveDate": "23:35 4/5/2025",
+          "read": false,
+          "student": false
+        }
+      ]
+    },
+    {
+      "password": "michaelbuble",
+      "name": "Joana Azevedo",
+      "ano": 3,
+      "id": "A102228",
+      "statute": "Normal",
+      "scheduleStatus": true,
+      "firstInscription": true,
+      "age": 50,
+      "location": "Porto",
+      "interests": [
+        "Gym",
+        "Sport",
+        "Programming"
+      ],
+      "ucs": [
+        {
+          "idUC": 1,
+          "fav": false,
+          "tp": 2,
+          "t": 5
+        },
+        {
+          "idUC": 2,
+          "fav": true,
+          "tp": 0,
+          "t": 0
+        }
+      ],
+      "mensagens": []
+    },
+    {
+      "password": "michaelbuble",
+      "name": "António Mendes",
+      "ano": 3,
+      "id": "A101450",
+      "statute": "Normal",
+      "scheduleStatus": true,
+      "firstInscription": true,
+      "age": 50,
+      "location": "Porto",
+      "interests": [
+        "Gym",
+        "Sport",
+        "Programming"
+      ],
+      "ucs": [
+        {
+          "idUC": 1,
+          "fav": false,
+          "tp": 2,
+          "t": 5
+        },
+        {
+          "idUC": 2,
+          "fav": true,
+          "tp": 0,
+          "t": 0
+        }
+      ],
+      "mensagens": []
+    },
+    {
+      "password": "michaelbuble",
+      "name": "José Gaio",
+      "ano": 3,
+      "id": "A104440",
+      "statute": "Normal",
+      "scheduleStatus": true,
+      "firstInscription": true,
+      "age": 50,
+      "location": "Porto",
+      "interests": [
+        "Gym",
+        "Sport",
+        "Programming"
+      ],
+      "ucs": [
+        {
+          "idUC": 1,
+          "fav": false,
+          "tp": 2,
+          "t": 5
+        },
+        {
+          "idUC": 2,
+          "fav": true,
+          "tp": 0,
+          "t": 0
+        }
+      ],
+      "mensagens": []
+    },
+    {
+      "password": "michaelbuble",
+      "name": "Joca Fruta",
+      "ano": 3,
+      "id": "A109998",
+      "statute": "Normal",
+      "scheduleStatus": true,
+      "firstInscription": true,
+      "age": 50,
+      "location": "Porto",
+      "interests": [
+        "Gym",
+        "Sport",
+        "Programming"
+      ],
+      "ucs": [
+        {
+          "idUC": 1,
+          "fav": false,
+          "tp": 2,
+          "t": 5
+        },
+        {
+          "idUC": 2,
+          "fav": true,
+          "tp": 0,
+          "t": 0
+        }
+      ],
+      "mensagens": []
+    },
+    {
+      "password": "michaelbuble",
+      "name": "Pedro Garcia",
+      "ano": 2,
+      "id": "A103910",
+      "statute": "Erasmus",
+      "scheduleStatus": true,
+      "firstInscription": true,
+      "age": 19,
+      "location": "Espanha",
+      "interests": [
+        "Gym",
+        "Sport",
+        "Programming"
+      ],
+      "ucs": [
+        {
+          "idUC": 1,
+          "fav": false,
+          "tp": 2,
+          "t": 5
+        },
+        {
+          "idUC": 2,
+          "fav": true,
+          "tp": 0,
+          "t": 0
+        }
+      ],
+      "mensagens": []
+    },
+    {
+      "password": "michaelbuble",
+      "name": "André Correia",
+      "ano": 3,
+      "id": "A101098",
+      "statute": "Normal",
+      "scheduleStatus": true,
+      "firstInscription": true,
+      "age": 22,
+      "location": "Braga",
+      "interests": [
+        "Gym",
+        "Sport",
+        "Programming"
+      ],
+      "ucs": [
+        {
+          "idUC": 1,
+          "fav": false,
+          "tp": 2,
+          "t": 5
+        },
+        {
+          "idUC": 2,
+          "fav": true,
+          "tp": 0,
+          "t": 0
+        }
+      ],
+      "mensagens": []
+    },
+    {
+      "password": "michaelbuble",
+      "name": "Miguel Arruda",
+      "ano": 2,
+      "id": "A103118",
+      "statute": "Normal",
+      "scheduleStatus": true,
+      "firstInscription": true,
+      "age": 19,
+      "location": "Porto",
+      "interests": [
+        "Gym",
+        "Sport",
+        "Programming"
+      ],
+      "ucs": [
+        {
+          "idUC": 1,
+          "fav": false,
+          "tp": 2,
+          "t": 5
+        },
+        {
+          "idUC": 2,
+          "fav": true,
+          "tp": 0,
+          "t": 0
+        }
+      ],
+      "mensagens": []
+    },
+    {
+      "password": "michaelbuble",
+      "name": "Rodrigo Mérido",
+      "ano": 1,
+      "id": "A102998",
+      "statute": "Normal",
+      "scheduleStatus": true,
+      "firstInscription": true,
+      "age": 19,
+      "location": "Porto",
+      "interests": [
+        "Gym",
+        "Sport",
+        "Programming"
+      ],
+      "ucs": [
+        {
+          "idUC": 1,
+          "fav": false,
+          "tp": 2,
+          "t": 5
+        },
+        {
+          "idUC": 2,
+          "fav": true,
+          "tp": 0,
+          "t": 0
+        }
+      ],
+      "mensagens": []
+    },
+    {
+      "password": "michaelbuble",
+      "name": "Joana Morte",
+      "ano": 2,
+      "id": "A103938",
+      "statute": "Normal",
+      "scheduleStatus": true,
+      "firstInscription": true,
+      "age": 21,
+      "location": "Braga",
+      "interests": [
+        "Gym",
+        "Sport",
+        "Programming"
+      ],
+      "ucs": [
+        {
+          "idUC": 1,
+          "fav": false,
+          "tp": 2,
+          "t": 5
+        },
+        {
+          "idUC": 2,
+          "fav": true,
+          "tp": 0,
+          "t": 0
+        }
+      ],
+      "mensagens": []
+    },
+    {
+      "password": "michaelbuble",
+      "name": "João Vladik",
+      "ano": 3,
+      "id": "A104838",
+      "statute": "Erasmus",
+      "scheduleStatus": true,
+      "firstInscription": true,
+      "age": 20,
+      "location": "Ucrânia",
+      "interests": [
+        "Gym",
+        "Sport",
+        "Programming"
+      ],
+      "ucs": [
+        {
+          "idUC": 1,
+          "fav": false,
+          "tp": 2,
+          "t": 5
+        },
+        {
+          "idUC": 2,
+          "fav": true,
+          "tp": 0,
+          "t": 0
+        }
+      ],
+      "mensagens": []
+    }
+  ],
+  "cursos": [
+    {
+      "id": 1,
+      "title": "Interface Pessoa Máquina",
+      "year": 3,
+      "semester": 2,
+      "abrev": "IPM",
+      "regent": "José Creissac Campos",
+      "enrolledStudents": 250,
+      "turnos": [
+        {
+          "id": 1,
+          "day": "Monday",
+          "startTime": "09:00",
+          "turn": "PL1",
+          "classroom": "CP1 - 1.18",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 40,
+          "teacher": "Manuel Lima"
+        },
+        {
+          "id": 2,
+          "day": "Monday",
+          "startTime": "18:00",
+          "turn": "PL2",
+          "classroom": "CP1 - 1.16",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 1,
+          "teacher": "Joel Guerra"
+        },
+        {
+          "id": 3,
+          "day": "Tuesday",
+          "startTime": "08:00",
+          "turn": "PL3",
+          "classroom": "CP3 - 1.03",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 0,
+          "teacher": "José Creissac Campos"
+        },
+        {
+          "id": 4,
+          "day": "Tuesday",
+          "startTime": "09:00",
+          "turn": "PL5",
+          "classroom": "CP2 - 2.12",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 0,
+          "teacher": "José Creissac Campos"
+        },
+        {
+          "id": 5,
+          "day": "Thursday",
+          "startTime": "11:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.08",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 100,
+          "teacher": "José Creissac Campos"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Análise Matemática",
+      "year": 1,
+      "semester": 2,
+      "abrev": "Análise",
+      "regent": "Elfrida Ralha",
+      "enrolledStudents": 350,
+      "turnos": [
+        {
+          "id": 6,
+          "day": "Monday",
+          "startTime": "11:00",
+          "turn": "T2",
+          "classroom": "CP3 - 0.08",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 100,
+          "teacher": "João Ribeiro"
+        },
+        {
+          "id": 7,
+          "day": "Tuesday",
+          "startTime": "09:00",
+          "turn": "TP5",
+          "classroom": "CP1 - 2.22",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 0,
+          "teacher": "João Ribeiro"
+        },
+        {
+          "id": 8,
+          "day": "Wednesday",
+          "startTime": "09:00",
+          "turn": "TP4",
+          "classroom": "CP1 - 1.18",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 2,
+          "teacher": "Manuel Lima"
+        },
+        {
+          "id": 9,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "TP1",
+          "classroom": "CP1 - 1.18",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 2,
+          "teacher": "Manuel Lima"
+        },
+        {
+          "id": 10,
+          "day": "Friday",
+          "startTime": "09:00",
+          "turn": "TP3",
+          "classroom": "CP1 - 2.22",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 0,
+          "teacher": "Pedro Gomes"
+        },
+        {
+          "id": 11,
+          "day": "Friday",
+          "startTime": "11:00",
+          "turn": "TP2",
+          "classroom": "CP2 - 1.12",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 0,
+          "teacher": "Pedro Gomes"
+        },
+        {
+          "id": 12,
+          "day": "Friday",
+          "startTime": "11:00",
+          "turn": "T1",
+          "classroom": "CP2 - 0.07",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 100,
+          "teacher": "José Creissac Campos"
+        },
+        {
+          "id": 13,
+          "day": "Friday",
+          "startTime": "16:00",
+          "turn": "TP6",
+          "classroom": "CP3 - 1.03",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 10,
+          "teacher": "Pedro Gomes"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Tópicos de Matemática Discreta",
+      "year": 1,
+      "semester": 1,
+      "abrev": "TMD",
+      "regent": "Laura Dutra",
+      "enrolledStudents": 250,
+      "turnos": [
+        {
+          "id": 14,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "PL1",
+          "classroom": "CP1 - 1.18",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 2,
+          "teacher": "Manuel Lima"
+        },
+        {
+          "id": 15,
+          "day": "Friday",
+          "startTime": "09:00",
+          "turn": "PL2",
+          "classroom": "CP1 - 1.16",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 1,
+          "teacher": "Joel Guerra"
+        },
+        {
+          "id": 16,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "PL3",
+          "classroom": "CP3 - 1.04",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 5,
+          "teacher": "José Creissac Campos"
+        },
+        {
+          "id": 17,
+          "day": "Tuesday",
+          "startTime": "09:00",
+          "turn": "PL5",
+          "classroom": "CP2 - 2.12",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 0,
+          "teacher": "José Creissac Campos"
+        },
+        {
+          "id": 18,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.08",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 100,
+          "teacher": "José Creissac Campos"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Programação Orientada a Objetos",
+      "year": 2,
+      "semester": 2,
+      "abrev": "POO",
+      "regent": "André Ribeiro",
+      "enrolledStudents": 400,
+      "turnos": [
+        {
+          "id": 19,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "PL4",
+          "classroom": "CP1 - 2.20",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 5,
+          "teacher": "João Ribeiro"
+        },
+        {
+          "id": 20,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "T2",
+          "classroom": "CP2 - 0.07",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 100,
+          "teacher": "Diogo Fernandes"
+        },
+        {
+          "id": 21,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "PL6",
+          "classroom": "CP2 - 2.11",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 5,
+          "teacher": "João Ribeiro"
+        },
+        {
+          "id": 22,
+          "day": "Wednesday",
+          "startTime": "16:00",
+          "turn": "PL3",
+          "classroom": "CP7 - 1.09",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 5,
+          "teacher": "Diogo Fernandes"
+        },
+        {
+          "id": 23,
+          "day": "Thursday",
+          "startTime": "14:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.08",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 100,
+          "teacher": "Diogo Fernandes"
+        },
+        {
+          "id": 24,
+          "day": "Thursday",
+          "startTime": "16:00",
+          "turn": "PL7",
+          "classroom": "CP1 - 1.15",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 12,
+          "teacher": "Diogo Fernandes"
+        },
+        {
+          "id": 25,
+          "day": "Thursday",
+          "startTime": "16:00",
+          "turn": "PL1",
+          "classroom": "CP1 - 1.27",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 0,
+          "teacher": "João Ribeiro"
+        },
+        {
+          "id": 26,
+          "day": "Thursday",
+          "startTime": "16:00",
+          "turn": "PL9",
+          "classroom": "CP1 - 2.21",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 12,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 27,
+          "day": "Friday",
+          "startTime": "11:00",
+          "turn": "PL5",
+          "classroom": "CP1 - 1.27",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 3,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 28,
+          "day": "Friday",
+          "startTime": "11:00",
+          "turn": "PL2",
+          "classroom": "CP1 - 2.17",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 3,
+          "teacher": "David Costa"
+        },
+        {
+          "id": 29,
+          "day": "Friday",
+          "startTime": "14:00",
+          "turn": "PL8",
+          "classroom": "CP3 - 2.05",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 20,
+          "teacher": "Jorge Fernandes"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Álgebra Linear",
+      "year": 1,
+      "semester": 1,
+      "abrev": "Álgebra",
+      "regent": "João Nuno",
+      "enrolledStudents": 250,
+      "turnos": [
+        {
+          "id": 30,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "TP2",
+          "classroom": "CP3 - 2.01",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 3,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 31,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "T2",
+          "classroom": "CP3 - 0.06",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 130,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 32,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "TP1",
+          "classroom": "CP2 - 2.06",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 3,
+          "teacher": "David Costa"
+        },
+        {
+          "id": 33,
+          "day": "Thursday",
+          "startTime": "09:00",
+          "turn": "TP4",
+          "classroom": "CP2 - 1.15",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 3,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 34,
+          "day": "Thursday",
+          "startTime": "11:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.08",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 111,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 35,
+          "day": "Thursday",
+          "startTime": "14:00",
+          "turn": "TP6",
+          "classroom": "CP2 - 0.01",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 3,
+          "teacher": "David Costa"
+        },
+        {
+          "id": 36,
+          "day": "Friday",
+          "startTime": "09:00",
+          "turn": "TP3",
+          "classroom": "CP2 - 2.01",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 5,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 37,
+          "day": "Friday",
+          "startTime": "09:00",
+          "turn": "TP5",
+          "classroom": "CP2 - 1.09",
+          "duration": 2,
+          "maxOccupation": 29,
+          "currentOccupation": 14,
+          "teacher": "Pedro Gomes"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Cálculo para Engenharia",
+      "year": 1,
+      "semester": 1,
+      "abrev": "Cálculo",
+      "regent": "Miguel Plácido",
+      "enrolledStudents": 250,
+      "turnos": [
+        {
+          "id": 38,
+          "day": "Monday",
+          "startTime": "11:00",
+          "turn": "TP5",
+          "classroom": "CP3 - 2.03",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 8,
+          "teacher": "Joana Mortágua"
+        },
+        {
+          "id": 39,
+          "day": "Monday",
+          "startTime": "14:00",
+          "turn": "T1",
+          "classroom": "CP2 - 0.03",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 130,
+          "teacher": "Miguel Arruda"
+        },
+        {
+          "id": 40,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "TP6",
+          "classroom": "CP3 - 3.03",
+          "duration": 2,
+          "maxOccupation": 25,
+          "currentOccupation": 12,
+          "teacher": "António Costa"
+        },
+        {
+          "id": 41,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "TP3",
+          "classroom": "CP2 - 1.09",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 11,
+          "teacher": "Pedro Santos"
+        },
+        {
+          "id": 42,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "TP2",
+          "classroom": "CP1 - 1.15",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 11,
+          "teacher": "Jason Mamoa"
+        },
+        {
+          "id": 43,
+          "day": "Wednesday",
+          "startTime": "16:00",
+          "turn": "TP4",
+          "classroom": "CP1 - 1.15",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 3,
+          "teacher": "David Costa"
+        },
+        {
+          "id": 44,
+          "day": "Friday",
+          "startTime": "11:00",
+          "turn": "TP1",
+          "classroom": "CP3 - 0.07",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 5,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 45,
+          "day": "Friday",
+          "startTime": "14:00",
+          "turn": "T2",
+          "classroom": "CP3 - 0.07",
+          "duration": 2,
+          "maxOccupation": 120,
+          "currentOccupation": 67,
+          "teacher": "Pedro Gomes"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Laboratórios de Informática I",
+      "year": 1,
+      "semester": 1,
+      "abrev": "LI1",
+      "regent": "José Bernardo",
+      "enrolledStudents": 260,
+      "turnos": [
+        {
+          "id": 46,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "PL5",
+          "classroom": "CP1 - 2.25",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 25,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 47,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "PL8",
+          "classroom": "CP7 - 0.05",
+          "duration": 2,
+          "maxOccupation": 35,
+          "currentOccupation": 25,
+          "teacher": "Pedro Teixeira"
+        },
+        {
+          "id": 48,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "PL2",
+          "classroom": "CP2 - 2.01",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 25,
+          "teacher": "Joana Mortágua"
+        },
+        {
+          "id": 49,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "PL3",
+          "classroom": "CP1 - 0.18",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 15,
+          "teacher": "Manuel Lima"
+        },
+        {
+          "id": 50,
+          "day": "Tuesday",
+          "startTime": "14:00",
+          "turn": "PL6",
+          "classroom": "CP1 - 0.07",
+          "duration": 2,
+          "maxOccupation": 20,
+          "currentOccupation": 15,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 51,
+          "day": "Tuesday",
+          "startTime": "14:00",
+          "turn": "PL7",
+          "classroom": "CP7 - 0.08",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 27,
+          "teacher": "David Costa"
+        },
+        {
+          "id": 52,
+          "day": "Tuesday",
+          "startTime": "14:00",
+          "turn": "PL1",
+          "classroom": "CP7 - 1.09",
+          "duration": 2,
+          "maxOccupation": 20,
+          "currentOccupation": 10,
+          "teacher": "Joel Guerra"
+        },
+        {
+          "id": 53,
+          "day": "Tuesday",
+          "startTime": "14:00",
+          "turn": "PL4",
+          "classroom": "CP7 - 0.05",
+          "duration": 2,
+          "maxOccupation": 35,
+          "currentOccupation": 30,
+          "teacher": "Miguel Arruda"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Laboratórios de Informática II",
+      "year": 1,
+      "semester": 2,
+      "abrev": "LI2",
+      "regent": "Joana Morais",
+      "enrolledStudents": 250,
+      "turnos": [
+        {
+          "id": 54,
+          "day": "Monday",
+          "startTime": "14:00",
+          "turn": "PL4",
+          "classroom": "CP7 - 1.09",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 25,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 55,
+          "day": "Tuesday",
+          "startTime": "09:00",
+          "turn": "PL2",
+          "classroom": "CP7 - 0.08",
+          "duration": 2,
+          "maxOccupation": 35,
+          "currentOccupation": 25,
+          "teacher": "Pedro Teixeira"
+        },
+        {
+          "id": 56,
+          "day": "Tuesday",
+          "startTime": "14:00",
+          "turn": "PL7",
+          "classroom": "CP7 - 2.01",
+          "duration": 2,
+          "maxOccupation": 38,
+          "currentOccupation": 12,
+          "teacher": "Jorge Guerreiro"
+        },
+        {
+          "id": 57,
+          "day": "Tuesday",
+          "startTime": "14:00",
+          "turn": "PL5",
+          "classroom": "CP7 - 0.09",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 15,
+          "teacher": "Manuel Lima"
+        },
+        {
+          "id": 58,
+          "day": "Tuesday",
+          "startTime": "14:00",
+          "turn": "PL6",
+          "classroom": "CP7 - 0.07",
+          "duration": 2,
+          "maxOccupation": 20,
+          "currentOccupation": 15,
+          "teacher": "Pedro Teixeira"
+        },
+        {
+          "id": 59,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "PL3",
+          "classroom": "CP1 - 1.17",
+          "duration": 2,
+          "maxOccupation": 25,
+          "currentOccupation": 22,
+          "teacher": "David Costa"
+        },
+        {
+          "id": 60,
+          "day": "Thursday",
+          "startTime": "10:00",
+          "turn": "PL8",
+          "classroom": "CP1 - 1.16",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 20,
+          "teacher": "Joel Guerra"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Laboratórios de Informática III",
+      "year": 2,
+      "semester": 1,
+      "abrev": "LI3",
+      "regent": "Inês Ribas",
+      "enrolledStudents": 320,
+      "turnos": [
+        {
+          "id": 61,
+          "day": "Tuesday",
+          "startTime": "16:00",
+          "turn": "PL9",
+          "classroom": "CP1 - 2.14",
+          "duration": 2,
+          "maxOccupation": 37,
+          "currentOccupation": 28,
+          "teacher": "Ricardo Pereira"
+        },
+        {
+          "id": 62,
+          "day": "Tuesday",
+          "startTime": "16:00",
+          "turn": "PL11",
+          "classroom": "CP1 - 2.17",
+          "duration": 2,
+          "maxOccupation": 35,
+          "currentOccupation": 15,
+          "teacher": "Pedro Teixeira"
+        },
+        {
+          "id": 63,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "PL3",
+          "classroom": "CP2 - 0.16",
+          "duration": 2,
+          "maxOccupation": 28,
+          "currentOccupation": 10,
+          "teacher": "Rafael Santos"
+        },
+        {
+          "id": 64,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "PL5",
+          "classroom": "CP3 - 1.05",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 15,
+          "teacher": "Manuel Lima"
+        },
+        {
+          "id": 65,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "PL7",
+          "classroom": "CP1 - 2.27",
+          "duration": 2,
+          "maxOccupation": 20,
+          "currentOccupation": 5,
+          "teacher": "Pedro Teixeira"
+        },
+        {
+          "id": 66,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "PL1",
+          "classroom": "CP1 - 1.17",
+          "duration": 2,
+          "maxOccupation": 25,
+          "currentOccupation": 22,
+          "teacher": "David Costa"
+        },
+        {
+          "id": 67,
+          "day": "Thursday",
+          "startTime": "15:30",
+          "turn": "PL12",
+          "classroom": "CP1 - 2.08",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 20,
+          "teacher": "Joel Guerra"
+        },
+        {
+          "id": 68,
+          "day": "Thursday",
+          "startTime": "16:00",
+          "turn": "PL2",
+          "classroom": "CP1 - 2.27",
+          "duration": 2,
+          "maxOccupation": 24,
+          "currentOccupation": 20,
+          "teacher": "Rafael Santos"
+        },
+        {
+          "id": 69,
+          "day": "Thursday",
+          "startTime": "16:00",
+          "turn": "PL10",
+          "classroom": "CP1 - 1.17",
+          "duration": 2,
+          "maxOccupation": 20,
+          "currentOccupation": 20,
+          "teacher": "António Costa"
+        },
+        {
+          "id": 70,
+          "day": "Friday",
+          "startTime": "17:00",
+          "turn": "PL8",
+          "classroom": "CP1 - 2.08",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 27,
+          "teacher": "António Costa"
+        },
+        {
+          "id": 71,
+          "day": "Friday",
+          "startTime": "17:00",
+          "turn": "PL6",
+          "classroom": "CP1 - 1.43",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 15,
+          "teacher": "Jorge Mendes"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Laboratórios de Informática IV",
+      "year": 3,
+      "semester": 1,
+      "abrev": "LI4",
+      "regent": "António Jugular",
+      "enrolledStudents": 300,
+      "turnos": [
+        {
+          "id": 72,
+          "day": "Tuesday",
+          "startTime": "14:00",
+          "turn": "OT2",
+          "classroom": "CP7 - 0.11",
+          "duration": 1,
+          "maxOccupation": 200,
+          "currentOccupation": 125,
+          "teacher": "Orlando Belo"
+        },
+        {
+          "id": 73,
+          "day": "Tuesday",
+          "startTime": "15:00",
+          "turn": "OT4",
+          "classroom": "CP7 - 0.11",
+          "duration": 1,
+          "maxOccupation": 200,
+          "currentOccupation": 125,
+          "teacher": "Orlando Belo"
+        },
+        {
+          "id": 74,
+          "day": "Wednesday",
+          "startTime": "13:30",
+          "turn": "OT3",
+          "classroom": "CP3 - 2.02",
+          "duration": 1,
+          "maxOccupation": 100,
+          "currentOccupation": 55,
+          "teacher": "Orlando Belo"
+        },
+        {
+          "id": 75,
+          "day": "Wednesday",
+          "startTime": "14:30",
+          "turn": "OT5",
+          "classroom": "CP3 - 2.02",
+          "duration": 1,
+          "maxOccupation": 100,
+          "currentOccupation": 55,
+          "teacher": "Orlando Belo"
+        },
+        {
+          "id": 76,
+          "day": "Wednesday",
+          "startTime": "17:30",
+          "turn": "T1",
+          "classroom": "CP1 - 0.08",
+          "duration": 2,
+          "maxOccupation": 100,
+          "currentOccupation": 85,
+          "teacher": "Orlando Belo"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Programação Funcional",
+      "year": 1,
+      "semester": 1,
+      "abrev": "PF",
+      "regent": "Andreia Bacelar",
+      "enrolledStudents": 310,
+      "turnos": [
+        {
+          "id": 77,
+          "day": "Monday",
+          "startTime": "9:00",
+          "turn": "TP3",
+          "classroom": "CP3 - 1.04",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 25,
+          "teacher": "Humberto Dias"
+        },
+        {
+          "id": 78,
+          "day": "Wednesday",
+          "startTime": "9:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.04",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 100,
+          "teacher": "João Gonçalves"
+        },
+        {
+          "id": 79,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "T2",
+          "classroom": "CP1 - 0.04",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 80,
+          "teacher": "Gonçalo Ribeiro"
+        },
+        {
+          "id": 80,
+          "day": "Thursday",
+          "startTime": "11:00",
+          "turn": "TP5",
+          "classroom": "CP1 - 2.21",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 23,
+          "teacher": "João Gonçalves"
+        },
+        {
+          "id": 81,
+          "day": "Thursday",
+          "startTime": "14:00",
+          "turn": "TP7",
+          "classroom": "CP1 - 1.20",
+          "duration": 2,
+          "maxOccupation": 30,
+          "currentOccupation": 19,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 82,
+          "day": "Friday",
+          "startTime": "9:00",
+          "turn": "TP1",
+          "classroom": "CP1 - 2.17",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 20,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 83,
+          "day": "Friday",
+          "startTime": "9:00",
+          "turn": "TP4",
+          "classroom": "CP1 - 2.18",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 20,
+          "teacher": "Fernando Mina"
+        },
+        {
+          "id": 84,
+          "day": "Friday",
+          "startTime": "11:00",
+          "turn": "TP6",
+          "classroom": "CP1 - 2.09",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 20,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 85,
+          "day": "Friday",
+          "startTime": "11:00",
+          "turn": "TP2",
+          "classroom": "CP1 - 2.05",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 20,
+          "teacher": "Fernando Mina"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Elementos e Probabilidades e Teoria de Números",
+      "year": 1,
+      "semester": 2,
+      "abrev": "EPTN",
+      "regent": "André Guia",
+      "enrolledStudents": 250,
+      "turnos": [
+        {
+          "id": 86,
+          "day": "Monday",
+          "startTime": "11:00",
+          "turn": "TP2",
+          "classroom": "CP3 - 1.03",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 24,
+          "teacher": "Rafael Santos"
+        },
+        {
+          "id": 87,
+          "day": "Monday",
+          "startTime": "14:00",
+          "turn": "TP4",
+          "classroom": "CP3 - 1.04",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 27,
+          "teacher": "Rafael Ribeiro"
+        },
+        {
+          "id": 88,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.20",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 100,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 89,
+          "day": "Tuesday",
+          "startTime": "16:00",
+          "turn": "TP1",
+          "classroom": "CP2 - 2.11",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 15,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 90,
+          "day": "Wednesday",
+          "startTime": "9:00",
+          "turn": "T2",
+          "classroom": "CP1 - 0.20",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 70,
+          "teacher": "Pedro Pina"
+        },
+        {
+          "id": 91,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "TP6",
+          "classroom": "CP3 - 1.03",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 20,
+          "teacher": "Rafael Santos"
+        },
+        {
+          "id": 92,
+          "day": "Wednesday",
+          "startTime": "16:00",
+          "turn": "TP3",
+          "classroom": "CP3 - 1.03",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 22,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 93,
+          "day": "Friday",
+          "startTime": "16:00",
+          "turn": "TP5",
+          "classroom": "CP1 - 1.20",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 10,
+          "teacher": "Rafael Ribeiro"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Lógica",
+      "year": 1,
+      "semester": 2,
+      "abrev": "Lógica",
+      "regent": "Pedro Minante",
+      "enrolledStudents": 250,
+      "turnos": [
+        {
+          "id": 94,
+          "day": "Monday",
+          "startTime": "14:00",
+          "turn": "TP3",
+          "classroom": "CP3 - 1.03",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 18,
+          "teacher": "Pedro Minante"
+        },
+        {
+          "id": 95,
+          "day": "Monday",
+          "startTime": "14:00",
+          "turn": "TP5",
+          "classroom": "CP3 - 2.02",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 20,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 96,
+          "day": "Tuesday",
+          "startTime": "9:00",
+          "turn": "TP6",
+          "classroom": "CP3 - 1.03",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 15,
+          "teacher": "Nuno Jorge"
+        },
+        {
+          "id": 97,
+          "day": "Tuesday",
+          "startTime": "14:00",
+          "turn": "TP1",
+          "classroom": "CP2 - 1.12",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 22,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 98,
+          "day": "Tuesday",
+          "startTime": "14:00",
+          "turn": "TP4",
+          "classroom": "CP2 - 2.10",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 30,
+          "teacher": "Pedro Pina"
+        },
+        {
+          "id": 99,
+          "day": "Tuesday",
+          "startTime": "16:00",
+          "turn": "TP2",
+          "classroom": "CP3 - 1.03",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 19,
+          "teacher": "Diogo Fernandes"
+        },
+        {
+          "id": 100,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "T2",
+          "classroom": "CP3 - 0.07",
+          "duration": 2,
+          "maxOccupation": 150,
+          "currentOccupation": 90,
+          "teacher": "Diogo Fernandes"
+        },
+        {
+          "id": 101,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.20",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 80,
+          "teacher": "Pedro Minante"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Programação Imperativa",
+      "year": 1,
+      "semester": 2,
+      "abrev": "PI",
+      "regent": "João Alcino",
+      "enrolledStudents": 280,
+      "turnos": [
+        {
+          "id": 103,
+          "day": "Monday",
+          "startTime": "11:00",
+          "turn": "TP4",
+          "classroom": "CP2 - 1.12",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 25,
+          "teacher": "Dionísio Dias"
+        },
+        {
+          "id": 104,
+          "day": "Tuesday",
+          "startTime": "9:00",
+          "turn": "TP3",
+          "classroom": "CP2 - 1.15",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Rafael Fernandes"
+        },
+        {
+          "id": 105,
+          "day": "Wednesday",
+          "startTime": "9:00",
+          "turn": "TP2",
+          "classroom": "CP2 - 1.10",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "Gonçalo Ribeiro"
+        },
+        {
+          "id": 106,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "TP5",
+          "classroom": "CP2 - 1.10",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Pedro Minante"
+        },
+        {
+          "id": 107,
+          "day": "Thursday",
+          "startTime": "9:00",
+          "turn": "T2",
+          "classroom": "CP1 - 0.08",
+          "duration": 1,
+          "maxOccupation": 200,
+          "currentOccupation": 150,
+          "teacher": "Ricardo Pereira"
+        },
+        {
+          "id": 108,
+          "day": "Thursday",
+          "startTime": "11:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.08",
+          "duration": 1,
+          "maxOccupation": 200,
+          "currentOccupation": 130,
+          "teacher": "Pedro Pina"
+        },
+        {
+          "id": 110,
+          "day": "Friday",
+          "startTime": "11:00",
+          "turn": "TP6",
+          "classroom": "CP2 - 1.10",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Manuel Lima"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Sistemas de Computação",
+      "year": 1,
+      "semester": 2,
+      "abrev": "SC",
+      "regent": "José Osório",
+      "enrolledStudents": 350,
+      "turnos": [
+        {
+          "id": 111,
+          "day": "Monday",
+          "startTime": "10:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.08",
+          "duration": 1,
+          "maxOccupation": 200,
+          "currentOccupation": 150,
+          "teacher": "José Fernandes"
+        },
+        {
+          "id": 112,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "T2",
+          "classroom": "CP1 - 0.08",
+          "duration": 1,
+          "maxOccupation": 200,
+          "currentOccupation": 150,
+          "teacher": "José Fernandes"
+        },
+        {
+          "id": 113,
+          "day": "Tuesday",
+          "startTime": "9:00",
+          "turn": "PL8",
+          "classroom": "CP2 - 1.09",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 40,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 114,
+          "day": "Tuesday",
+          "startTime": "12:00",
+          "turn": "T2",
+          "classroom": "CP1 - 0.08",
+          "duration": 1,
+          "maxOccupation": 200,
+          "currentOccupation": 150,
+          "teacher": "José Fernandes"
+        },
+        {
+          "id": 115,
+          "day": "Tuesday",
+          "startTime": "16:00",
+          "turn": "PL4",
+          "classroom": "CP2 - 2.03",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 34,
+          "teacher": "Diogo Fernandes"
+        },
+        {
+          "id": 116,
+          "day": "Tuesday",
+          "startTime": "16:00",
+          "turn": "PL6",
+          "classroom": "CP7 - 1.10",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 25,
+          "teacher": "Pedro Gomes"
+        },
+        {
+          "id": 117,
+          "day": "Wednesday",
+          "startTime": "9:00",
+          "turn": "PL1",
+          "classroom": "CP1 - 1.21",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 118,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "PL2",
+          "classroom": "CP1 - 1.24",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 119,
+          "day": "Thursday",
+          "startTime": "10:00",
+          "turn": "PL7",
+          "classroom": "CP1 - 2.21",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 20,
+          "teacher": "Fernando Mina"
+        },
+        {
+          "id": 120,
+          "day": "Thursday",
+          "startTime": "10:00",
+          "turn": "PL9",
+          "classroom": "CP7 - 1.09",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 21,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 121,
+          "day": "Thursday",
+          "startTime": "10:00",
+          "turn": "PL3",
+          "classroom": "CP7 - 1.10",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 28,
+          "teacher": "Diogo Fernandes"
+        },
+        {
+          "id": 122,
+          "day": "Thursday",
+          "startTime": "12:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.08",
+          "duration": 1,
+          "maxOccupation": 200,
+          "currentOccupation": 150,
+          "teacher": "José Fernandes"
+        },
+        {
+          "id": 123,
+          "day": "Friday",
+          "startTime": "14:00",
+          "turn": "PL5",
+          "classroom": "CP1 - 2.20",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 26,
+          "teacher": "Fernando Mina"
+        },
+        {
+          "id": 124,
+          "day": "Friday",
+          "startTime": "14:00",
+          "turn": "PL10",
+          "classroom": "CP3 - 1.04",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 24,
+          "teacher": "Jorge Fernandes"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Algoritmos de Complexidade",
+      "year": 2,
+      "semester": 1,
+      "abrev": "AlgC",
+      "regent": "José Miranda",
+      "enrolledStudents": 350,
+      "turnos": [
+        {
+          "id": 125,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "TP2",
+          "classroom": "CP2 - 2.06",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 126,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "TP5",
+          "classroom": "CP3 - 0.06",
+          "duration": 2,
+          "maxOccupation": 150,
+          "currentOccupation": 50,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 127,
+          "day": "Tuesday",
+          "startTime": "13:00",
+          "turn": "T2",
+          "classroom": "CP1 - 0.04",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 100,
+          "teacher": "Diogo Fernandes"
+        },
+        {
+          "id": 128,
+          "day": "Tuesday",
+          "startTime": "16:00",
+          "turn": "TP4",
+          "classroom": "CP3 - 0.07",
+          "duration": 2,
+          "maxOccupation": 150,
+          "currentOccupation": 50,
+          "teacher": "Pedro Gomes"
+        },
+        {
+          "id": 129,
+          "day": "Thursday",
+          "startTime": "13:00",
+          "turn": "TP1",
+          "classroom": "CP2 - 0.07",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 100,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 130,
+          "day": "Wednesday",
+          "startTime": "16:00",
+          "turn": "TP3",
+          "classroom": "CP3 - 0.03",
+          "duration": 2,
+          "maxOccupation": 150,
+          "currentOccupation": 150,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 131,
+          "day": "Friday",
+          "startTime": "14:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.04",
+          "duration": 2,
+          "maxOccupation": 150,
+          "currentOccupation": 50,
+          "teacher": "Diogo Fernandes"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Arquitetura de Computadores",
+      "year": 2,
+      "semester": 1,
+      "abrev": "ArqC",
+      "regent": "João Nuno",
+      "enrolledStudents": 250,
+      "turnos": [
+        {
+          "id": 132,
+          "day": "Tuesday",
+          "startTime": "13:00",
+          "turn": "T1",
+          "classroom": "CP3 - 0.06",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 100,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 133,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "PL2",
+          "classroom": "CP7 - 0.08",
+          "duration": 2,
+          "maxOccupation": 100,
+          "currentOccupation": 30,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 134,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "PL4",
+          "classroom": "CP7 - 1.10",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Pedro Teixeira"
+        },
+        {
+          "id": 135,
+          "day": "Thursday",
+          "startTime": "13:30",
+          "turn": "PL6",
+          "classroom": "CP7 - 1.10",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 136,
+          "day": "Thursday",
+          "startTime": "13:30",
+          "turn": "PL5",
+          "classroom": "CP7 - 0.08",
+          "duration": 2,
+          "maxOccupation": 100,
+          "currentOccupation": 40,
+          "teacher": "Diogo Fernandes"
+        },
+        {
+          "id": 137,
+          "day": "Thursday",
+          "startTime": "15:30",
+          "turn": "PL3",
+          "classroom": "CP7 - 1.10",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Pedro Teixeira"
+        },
+        {
+          "id": 138,
+          "day": "Thursday",
+          "startTime": "15:30",
+          "turn": "PL1",
+          "classroom": "CP7 - 0.08",
+          "duration": 2,
+          "maxOccupation": 100,
+          "currentOccupation": 30,
+          "teacher": "Pedro Gomes"
+        },
+        {
+          "id": 139,
+          "day": "Friday",
+          "startTime": "14:00",
+          "turn": "T2",
+          "classroom": "CP2 - 0.05",
+          "duration": 2,
+          "maxOccupation": 150,
+          "currentOccupation": 100,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 139,
+          "day": "Friday",
+          "startTime": "16:30",
+          "turn": "PL7",
+          "classroom": "CP7 - 0.08",
+          "duration": 2,
+          "maxOccupation": 100,
+          "currentOccupation": 36,
+          "teacher": "Jorge Fernandes"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Estatística Aplicada",
+      "year": 2,
+      "semester": 1,
+      "abrev": "EA",
+      "regent": "Miguel Plácido",
+      "enrolledStudents": 250,
+      "turnos": [
+        {
+          "id": 140,
+          "day": "Monday",
+          "startTime": "9:00",
+          "turn": "TP1",
+          "classroom": "CP3 - 1.05",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Pedro Gomes"
+        },
+        {
+          "id": 141,
+          "day": "Monday",
+          "startTime": "11:00",
+          "turn": "TP3",
+          "classroom": "CP3 - 1.05",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 27,
+          "teacher": "Pedro Teixeira"
+        },
+        {
+          "id": 145,
+          "day": "Monday",
+          "startTime": "14:00",
+          "turn": "T2",
+          "classroom": "CP2 - 0.11",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 100,
+          "teacher": "Pedro Teixeira"
+        },
+        {
+          "id": 142,
+          "day": "Wednesday",
+          "startTime": "9:00",
+          "turn": "TP5",
+          "classroom": "CP1 - 2.14",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 25,
+          "teacher": "Diogo Fernandes"
+        },
+        {
+          "id": 143,
+          "day": "Wednesday",
+          "startTime": "9:00",
+          "turn": "TP2",
+          "classroom": "CP1 - 1.27",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 144,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "TP4",
+          "classroom": "CP1 - 2.27",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 23,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 145,
+          "day": "Wednesday",
+          "startTime": "16:00",
+          "turn": "T1",
+          "classroom": "CP3 - 0.06",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 100,
+          "teacher": "Pedro Teixeira"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Física Moderna",
+      "year": 2,
+      "semester": 1,
+      "abrev": "FM",
+      "regent": "José Bernardo",
+      "enrolledStudents": 260,
+      "turnos": [
+        {
+          "id": 146,
+          "day": "Monday",
+          "startTime": "11:00",
+          "turn": "TP3",
+          "classroom": "CP2 - 2.09",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Pedro Gomes"
+        },
+        {
+          "id": 147,
+          "day": "Tuesday",
+          "startTime": "15:00",
+          "turn": "T1",
+          "classroom": "CP3 - 0.06",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 120,
+          "teacher": "Pedro Teixeira"
+        },
+        {
+          "id": 148,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "TP1",
+          "classroom": "CP2 - 2.09",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 38,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 149,
+          "day": "Thursday",
+          "startTime": "9:00",
+          "turn": "TP4",
+          "classroom": "CP2 - 0.20",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 37,
+          "teacher": "Diogo Fernandes"
+        },
+        {
+          "id": 150,
+          "day": "Thursday",
+          "startTime": "9:00",
+          "turn": "TP2",
+          "classroom": "CP2 - 0.20",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 37,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 151,
+          "day": "Thursday",
+          "startTime": "18:00",
+          "turn": "T2",
+          "classroom": "CP1 - 0.08",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 90,
+          "teacher": "Pedro Teixeira"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Fundamentos de Comunicação de Dados",
+      "year": 2,
+      "semester": 1,
+      "abrev": "FCD",
+      "regent": "Joana Morais",
+      "enrolledStudents": 250,
+      "turnos": [
+        {
+          "id": 152,
+          "day": "Monday",
+          "startTime": "14:00",
+          "turn": "T1",
+          "classroom": "CP3 - 0.06",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 130,
+          "teacher": "Pedro Teixeira"
+        },
+        {
+          "id": 153,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "TP1",
+          "classroom": "CP1 - 2.17",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 154,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "TP3",
+          "classroom": "CP2 - 0.01",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 50,
+          "teacher": "Pedro Gomes"
+        },
+        {
+          "id": 155,
+          "day": "Wednesday",
+          "startTime": "16:00",
+          "turn": "T2",
+          "classroom": "CP2 - 0.07",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 90,
+          "teacher": "Pedro Teixeira"
+        },
+        {
+          "id": 156,
+          "day": "Thursday",
+          "startTime": "13:00",
+          "turn": "TP2",
+          "classroom": "CP1 - 2.14",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 35,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 157,
+          "day": "Thursday",
+          "startTime": "16:00",
+          "turn": "TP4",
+          "classroom": "CP1 - 1.27",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 40,
+          "teacher": "Pedro Teixeira"
+        },
+        {
+          "id": 158,
+          "day": "Friday",
+          "startTime": "16:30",
+          "turn": "TP5",
+          "classroom": "CP3 - 1.05",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 37,
+          "teacher": "Diogo Fernandes"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Base de Dados",
+      "year": 2,
+      "semester": 2,
+      "abrev": "BD",
+      "regent": "Inês Ribas",
+      "enrolledStudents": 320,
+      "turnos": [
+        {
+          "id": 159,
+          "day": "Monday",
+          "startTime": "14:00",
+          "turn": "T1",
+          "classroom": "CP1 - 2.07",
+          "duration": 2,
+          "maxOccupation": 100,
+          "currentOccupation": 70,
+          "teacher": "Orlando Belo"
+        },
+        {
+          "id": 160,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "PL8",
+          "classroom": "CP2 - 1.01",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 40,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 161,
+          "day": "Tuesday",
+          "startTime": "9:00",
+          "turn": "T2",
+          "classroom": "CP3 - 1.03",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 30,
+          "teacher": "Orlando Belo"
+        },
+        {
+          "id": 162,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "PL6",
+          "classroom": "CP1 - 0.17",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "Fernando Mina"
+        },
+        {
+          "id": 163,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "PL3",
+          "classroom": "CP1 - 2.14",
+          "duration": 2,
+          "maxOccupation": 60,
+          "currentOccupation": 40,
+          "teacher": "Pedro Teixeira"
+        },
+        {
+          "id": 164,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "PL5",
+          "classroom": "CP1 - 2.20",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 35,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 165,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "PL2",
+          "classroom": "CP1 - 2.22",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 36,
+          "teacher": "Pedro Gomes"
+        },
+        {
+          "id": 166,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "PL9",
+          "classroom": "CP1 - 2.21",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 36,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 167,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "PL7",
+          "classroom": "CP2 - 2.06",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 37,
+          "teacher": "Pedro Teixeira"
+        },
+        {
+          "id": 168,
+          "day": "Friday",
+          "startTime": "11:00",
+          "turn": "PL1",
+          "classroom": "CP2 - 2.06",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 30,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 169,
+          "day": "Friday",
+          "startTime": "14:00",
+          "turn": "PL4",
+          "classroom": "CP2 - 0.14",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 33,
+          "teacher": "Diogo Fernandes"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Investigação Operacional",
+      "year": 2,
+      "semester": 2,
+      "abrev": "IO",
+      "regent": "António Jugular",
+      "enrolledStudents": 300,
+      "turnos": [
+        {
+          "id": 170,
+          "day": "Monday",
+          "startTime": "11:00",
+          "turn": "TP3",
+          "classroom": "CP2 - 2.12",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 40,
+          "teacher": "Paulo Ferreira"
+        },
+        {
+          "id": 171,
+          "day": "Monday",
+          "startTime": "11:00",
+          "turn": "TP1",
+          "classroom": "CP3 - 1.04",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "António Costa"
+        },
+        {
+          "id": 172,
+          "day": "Tuesday",
+          "startTime": "16:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.08",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 180,
+          "teacher": "David Costa"
+        },
+        {
+          "id": 173,
+          "day": "Wednesday",
+          "startTime": "9:00",
+          "turn": "TP5",
+          "classroom": "CP3 - 1.04",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 30,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 174,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "TP2",
+          "classroom": "CP3 - 1.04",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 32,
+          "teacher": "António Costa"
+        },
+        {
+          "id": 175,
+          "day": "Thursday",
+          "startTime": "11:00",
+          "turn": "TP4",
+          "classroom": "CP1 - 1.21",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 40,
+          "teacher": "Paulo Ferreira"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Métodos Númericos e Otimiazação não Linear",
+      "year": 2,
+      "semester": 2,
+      "abrev": "MNOnL",
+      "regent": "Andreia Bacelar",
+      "enrolledStudents": 310,
+      "turnos": [
+        {
+          "id": 176,
+          "day": "Monday",
+          "startTime": "11:00",
+          "turn": "PL4",
+          "classroom": "CP3 - 2.05",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 40,
+          "teacher": "Rute Costa"
+        },
+        {
+          "id": 177,
+          "day": "Wednesday",
+          "startTime": "9:00",
+          "turn": "PL6",
+          "classroom": "CP2 - 2.09",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 36,
+          "teacher": "Rúben Sousa"
+        },
+        {
+          "id": 178,
+          "day": "Wednesday",
+          "startTime": "16:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0-08",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 150,
+          "teacher": "Rute Costa"
+        },
+        {
+          "id": 179,
+          "day": "Friday",
+          "startTime": "9:00",
+          "turn": "PL5",
+          "classroom": "CP1 - 1.24",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 37,
+          "teacher": "Rúben Sousa"
+        },
+        {
+          "id": 180,
+          "day": "Friday",
+          "startTime": "9:00",
+          "turn": "PL2",
+          "classroom": "CP1 - 1.27",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 37,
+          "teacher": "Rute Costa"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Redes de Computadores",
+      "year": 2,
+      "semester": 2,
+      "abrev": "RC",
+      "regent": "André Guia",
+      "enrolledStudents": 250,
+      "turnos": [
+        {
+          "id": 181,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "PL5",
+          "classroom": "CP1 - 1.15",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Ricardo Loureiro"
+        },
+        {
+          "id": 182,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "PL3",
+          "classroom": "CP1 - 1.18",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 183,
+          "day": "Tuesday",
+          "startTime": "14:00",
+          "turn": "T2",
+          "classroom": "CP1 - 0.20",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 120,
+          "teacher": "Rui Lopes"
+        },
+        {
+          "id": 184,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "PL9",
+          "classroom": "CP1 - 2.23",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 185,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "PL1",
+          "classroom": "CP3 - 2.01",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Maria Campos"
+        },
+        {
+          "id": 186,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "PL8",
+          "classroom": "CP2 - 2.10",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "Ricardo Loureiro"
+        },
+        {
+          "id": 187,
+          "day": "Thursday",
+          "startTime": "9:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.04",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 26,
+          "teacher": "Rui Lopes"
+        },
+        {
+          "id": 188,
+          "day": "Thursday",
+          "startTime": "16:00",
+          "turn": "PL4",
+          "classroom": "CP2 - 2.02",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 20,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 189,
+          "day": "Thursday",
+          "startTime": "16:00",
+          "turn": "PL2",
+          "classroom": "CP1 - 2.27",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 25,
+          "teacher": "Rui Lopes"
+        },
+        {
+          "id": 190,
+          "day": "Friday",
+          "startTime": "11:00",
+          "turn": "PL6",
+          "classroom": "CP2 - 2.02",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 20,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 191,
+          "day": "Friday",
+          "startTime": "14:00",
+          "turn": "PL7",
+          "classroom": "CP2 - 2.26",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Jorge Fernandes"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Sistemas Operativos",
+      "year": 2,
+      "semester": 2,
+      "abrev": "SO",
+      "regent": "Pedro Minante",
+      "enrolledStudents": 250,
+      "turnos": [
+        {
+          "id": 192,
+          "day": "Monday",
+          "startTime": "14:00",
+          "turn": "T2",
+          "classroom": "CP2 - 0.07",
+          "duration": 2,
+          "maxOccupation": 150,
+          "currentOccupation": 120,
+          "teacher": "Pedro Minante"
+        },
+        {
+          "id": 193,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "PL2",
+          "classroom": "CP1 - 1.16",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Pedro Gomes"
+        },
+        {
+          "id": 194,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "PL10",
+          "classroom": "CP2 - 1.12",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "Pedro Minante"
+        },
+        {
+          "id": 195,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "PL7",
+          "classroom": "CP1 - 2.23",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 196,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "PL6",
+          "classroom": "CP2 - 2.09",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 27,
+          "teacher": "Diogo Fernandes"
+        },
+        {
+          "id": 197,
+          "day": "Tuesday",
+          "startTime": "14:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.08",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 120,
+          "teacher": "Pedro Minante"
+        },
+        {
+          "id": 198,
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "turn": "PL9",
+          "classroom": "CP1 - 2.23",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 29,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 199,
+          "day": "Thursday",
+          "startTime": "16:00",
+          "turn": "PL4",
+          "classroom": "CP1 - 2.17",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 36,
+          "teacher": "Pedro Minante"
+        },
+        {
+          "id": 200,
+          "day": "Thursday",
+          "startTime": "16:00",
+          "turn": "PL3",
+          "classroom": "CP1 - 2.20",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 33,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 201,
+          "day": "Thursday",
+          "startTime": "16:00",
+          "turn": "PL8",
+          "classroom": "CP1 - 1.19",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "Diogo Fernandes"
+        },
+        {
+          "id": 202,
+          "day": "Thursday",
+          "startTime": "16:00",
+          "turn": "PL5",
+          "classroom": "CP1 - 1.24",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Pedro Gomes"
+        },
+        {
+          "id": 203,
+          "day": "Friday",
+          "startTime": "14:00",
+          "turn": "PL1",
+          "classroom": "CP1 - 2.17",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Pedro Minante"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Cálculo de Programas",
+      "year": 3,
+      "semester": 1,
+      "abrev": "CP",
+      "regent": "João Alcino",
+      "enrolledStudents": 280,
+      "turnos": [
+        {
+          "id": 204,
+          "day": "Tuesday",
+          "startTime": "18:00",
+          "turn": "TP5",
+          "classroom": "CP1 - 1.22",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 37,
+          "teacher": "João Alcino"
+        },
+        {
+          "id": 205,
+          "day": "Wednesday",
+          "startTime": "9:00",
+          "turn": "TP4",
+          "classroom": "CP1 - 2.27",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 206,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "TP2",
+          "classroom": "CP2 - 2.10",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 33,
+          "teacher": "Pedro Teixeira"
+        },
+        {
+          "id": 207,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "TP3",
+          "classroom": "CP2 - 2.07",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Diogo Fernandes"
+        },
+        {
+          "id": 208,
+          "day": "Thursday",
+          "startTime": "16:00",
+          "turn": "T2",
+          "classroom": "CP1 - 0.20",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 140,
+          "teacher": "João Alcino"
+        },
+        {
+          "id": 209,
+          "day": "Friday",
+          "startTime": "9:00",
+          "turn": "T1",
+          "classroom": "CP2 - 0.01",
+          "duration": 2,
+          "maxOccupation": 150,
+          "currentOccupation": 130,
+          "teacher": "João Alcino"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Comunicações por Computadores",
+      "year": 3,
+      "semester": 1,
+      "abrev": "CC",
+      "regent": "José Osório",
+      "enrolledStudents": 350,
+      "turnos": [
+        {
+          "id": 210,
+          "day": "Tuesday",
+          "startTime": "9:00",
+          "turn": "PL5",
+          "classroom": "CP1 - 2.18",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "José Osório"
+        },
+        {
+          "id": 211,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "PL2",
+          "classroom": "CP1 - 1.21",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 212,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "PL7",
+          "classroom": "CP2 - 1.13",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "Jorge Mendes"
+        },
+        {
+          "id": 213,
+          "day": "Wednesday",
+          "startTime": "11:00",
+          "turn": "PL4",
+          "classroom": "CP2 - 2.12",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "João Brito"
+        },
+        {
+          "id": 214,
+          "day": "Thursday",
+          "startTime": "9:00",
+          "turn": "PL3",
+          "classroom": "CP1 - 2.11",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 215,
+          "day": "Thursday",
+          "startTime": "11:00",
+          "turn": "PL1",
+          "classroom": "CP1 - 2.11",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 216,
+          "day": "Thursday",
+          "startTime": "16:00",
+          "turn": "T1",
+          "classroom": "CP3 - 0.07",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 150,
+          "teacher": "José Osório"
+        },
+        {
+          "id": 217,
+          "day": "Friday",
+          "startTime": "9:00",
+          "turn": "T2",
+          "classroom": "CP2 - 0.07",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 100,
+          "teacher": "José Osório"
+        },
+        {
+          "id": 218,
+          "day": "Friday",
+          "startTime": "11:00",
+          "turn": "PL6",
+          "classroom": "CP2 - 2.01",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "José Osório"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Desenvolvimento de Sistemas de Software",
+      "year": 3,
+      "semester": 1,
+      "abrev": "DSS",
+      "regent": "José Miranda",
+      "enrolledStudents": 350,
+      "turnos": [
+        {
+          "id": 219,
+          "day": "Monday",
+          "startTime": "9:00",
+          "turn": "PL4",
+          "classroom": "CP1 - 2.09",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "José Miranda"
+        },
+        {
+          "id": 220,
+          "day": "Monday",
+          "startTime": "11:00",
+          "turn": "PL3",
+          "classroom": "CP1 - 2.11",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 221,
+          "day": "Monday",
+          "startTime": "11:00",
+          "turn": "PL5",
+          "classroom": "CP7 - 0.11",
+          "duration": 2,
+          "maxOccupation": 80,
+          "currentOccupation": 40,
+          "teacher": "Diogo Fernandes"
+        },
+        {
+          "id": 222,
+          "day": "Monday",
+          "startTime": "14:00",
+          "turn": "PL6",
+          "classroom": "CP2 - 1.03",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "José Miranda"
+        },
+        {
+          "id": 223,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "PL1",
+          "classroom": "CP1 - 2.11",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 224,
+          "day": "Wednesday",
+          "startTime": "15:30",
+          "turn": "T1",
+          "classroom": "CP1 - 0.08",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 180,
+          "teacher": "José Miranda"
+        },
+        {
+          "id": 225,
+          "day": "Friday",
+          "startTime": "13:30",
+          "turn": "PL2",
+          "classroom": "CP2 - 2.06",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Jorge Fernandes"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Inteligência Artificial",
+      "year": 3,
+      "semester": 1,
+      "abrev": "IA",
+      "regent": "Jorge Peliteiro",
+      "enrolledStudents": 350,
+      "turnos": [
+        {
+          "id": 226,
+          "day": "Monday",
+          "startTime": "9:00",
+          "turn": "PL6",
+          "classroom": "CP1 - 2.18",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 36,
+          "teacher": "José Sá"
+        },
+        {
+          "id": 227,
+          "day": "Monday",
+          "startTime": "11:00",
+          "turn": "PL2",
+          "classroom": "CP1 - 2.09",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "Jorge Peliteiro"
+        },
+        {
+          "id": 228,
+          "day": "Monday",
+          "startTime": "11:00",
+          "turn": "PL4",
+          "classroom": "CP1 - 1.27",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 229,
+          "day": "Monday",
+          "startTime": "14:00",
+          "turn": "PL1",
+          "classroom": "CP2 - 0.14",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "José Sá"
+        },
+        {
+          "id": 230,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.08",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 175,
+          "teacher": "Jorge Peliteiro"
+        },
+        {
+          "id": 231,
+          "day": "Monday",
+          "startTime": "18:00",
+          "turn": "PL5",
+          "classroom": "CP2 - 2.07",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 40,
+          "teacher": "Jorge Peliteiro"
+        },
+        {
+          "id": 232,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "PL3",
+          "classroom": "CP1 - 2.11",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 38,
+          "teacher": "Jorge Fernandes"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Sistemas Distribuídos",
+      "year": 3,
+      "semester": 1,
+      "abrev": "SD",
+      "regent": "Vítor Hugo",
+      "enrolledStudents": 350,
+      "turnos": [
+        {
+          "id": 233,
+          "day": "Tuesday",
+          "startTime": "9:00",
+          "turn": "PL7",
+          "classroom": "CP1 - 1.22",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "Fernando Mina"
+        },
+        {
+          "id": 234,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "PL6",
+          "classroom": "CP3 - 1.04",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 34,
+          "teacher": "Fernando Mina"
+        },
+        {
+          "id": 235,
+          "day": "Tuesday",
+          "startTime": "16:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.08",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 170,
+          "teacher": "Vítor Hugo"
+        },
+        {
+          "id": 236,
+          "day": "Thursday",
+          "startTime": "9:00",
+          "turn": "PL5",
+          "classroom": "CP1 - 0.17",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "Fernando Mina"
+        },
+        {
+          "id": 237,
+          "day": "Thursday",
+          "startTime": "9:00",
+          "turn": "PL4",
+          "classroom": "CP3 - 2.01",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 38,
+          "teacher": "Jorge Guerreiro"
+        },
+        {
+          "id": 238,
+          "day": "Thursday",
+          "startTime": "11:00",
+          "turn": "PL2",
+          "classroom": "CP3 - 2.01",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 36,
+          "teacher": "Jorge Guerreiro"
+        },
+        {
+          "id": 239,
+          "day": "Friday",
+          "startTime": "11:00",
+          "turn": "PL3",
+          "classroom": "CP2 - 1.12",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "Fernando Mina"
+        },
+        {
+          "id": 240,
+          "day": "Friday",
+          "startTime": "11:00",
+          "turn": "PL1",
+          "classroom": "CP1 - 2.14",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 38,
+          "teacher": "Jorge Guerreiro"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Aprendizagem e Decisão Inteligentes",
+      "year": 3,
+      "semester": 2,
+      "abrev": "ADI",
+      "regent": "Luís Campos",
+      "enrolledStudents": 350,
+      "turnos": [
+        {
+          "id": 241,
+          "day": "Monday",
+          "startTime": "9:00",
+          "turn": "PL6",
+          "classroom": "CP3 - 2.05",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 37,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 242,
+          "day": "Tuesday",
+          "startTime": "14:00",
+          "turn": "PL2",
+          "classroom": "CP1 - 2.18",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 36,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 243,
+          "day": "Thursday",
+          "startTime": "9:00",
+          "turn": "PL5",
+          "classroom": "CP1 - 1.24",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "José Miranda"
+        },
+        {
+          "id": 244,
+          "day": "Thursday",
+          "startTime": "9:00",
+          "turn": "PL4",
+          "classroom": "CP1 - 1.27",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 245,
+          "day": "Thursday",
+          "startTime": "11:00",
+          "turn": "PL1",
+          "classroom": "CP2 - 2.09",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 37,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 246,
+          "day": "Thursday",
+          "startTime": "14:00",
+          "turn": "PL3",
+          "classroom": "CP3 - 2.05",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "José Miranda"
+        },
+        {
+          "id": 247,
+          "day": "Thursday",
+          "startTime": "16:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.08",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 170,
+          "teacher": "Luís Campos"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Computação Gráfica",
+      "year": 3,
+      "semester": 2,
+      "abrev": "CG",
+      "regent": "Gustavo Costa",
+      "enrolledStudents": 350,
+      "turnos": [
+        {
+          "id": 248,
+          "day": "Monday",
+          "startTime": "9:00",
+          "turn": "PL5",
+          "classroom": "CP1 - 2.24",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "José Miranda"
+        },
+        {
+          "id": 249,
+          "day": "Monday",
+          "startTime": "11:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.08",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 170,
+          "teacher": "Gustavo Costa"
+        },
+        {
+          "id": 250,
+          "day": "Tuesday",
+          "startTime": "14:00",
+          "turn": "PL1",
+          "classroom": "CP1 - 2.21",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 33,
+          "teacher": "José Miranda"
+        },
+        {
+          "id": 251,
+          "day": "Tuesday",
+          "startTime": "9:00",
+          "turn": "PL2",
+          "classroom": "CP2 - 2.06",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 34,
+          "teacher": "Pedro Minante"
+        },
+        {
+          "id": 252,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "PL3",
+          "classroom": "CP1 - 2.22",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 34,
+          "teacher": "Pedro Minante"
+        },
+        {
+          "id": 253,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "PL4",
+          "classroom": "CP2 - 2.06",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 34,
+          "teacher": "Pedro Gomes"
+        },
+        {
+          "id": 251,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "PL2",
+          "classroom": "CP2 - 2.07",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 37,
+          "teacher": "Gustavo Costa"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Processamento de Linguagens",
+      "year": 3,
+      "semester": 2,
+      "abrev": "PL",
+      "regent": "Jorge Fernandes",
+      "enrolledStudents": 350,
+      "turnos": [
+        {
+          "id": 254,
+          "day": "Tuesday",
+          "startTime": "9:00",
+          "turn": "PL6",
+          "classroom": "CP1 - 0.17",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 40,
+          "teacher": "José Miranda"
+        },
+        {
+          "id": 255,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "PL1",
+          "classroom": "CP3 - 1.04",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 36,
+          "teacher": "Diogo Fernandes"
+        },
+        {
+          "id": 256,
+          "day": "Thursday",
+          "startTime": "9:00",
+          "turn": "PL3",
+          "classroom": "CP2 - 1.09",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 38,
+          "teacher": "José Miranda"
+        },
+        {
+          "id": 257,
+          "day": "Thursday",
+          "startTime": "11:00",
+          "turn": "PL4",
+          "classroom": "CP2 - 2.11",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 30,
+          "teacher": "Pedro Gomes"
+        },
+        {
+          "id": 258,
+          "day": "Thursday",
+          "startTime": "14:00",
+          "turn": "PL5",
+          "classroom": "CP2 - 2.10",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "José Miranda"
+        },
+        {
+          "id": 259,
+          "day": "Thursday",
+          "startTime": "11:00",
+          "turn": "PL2",
+          "classroom": "CP1 - 2.24",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 33,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 260,
+          "day": "Friday",
+          "startTime": "11:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.08",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 180,
+          "teacher": "Jorge Fernandes"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Segurança de Sistemas Informáticos",
+      "year": 3,
+      "semester": 2,
+      "abrev": "SSI",
+      "regent": "Fernando Mina",
+      "enrolledStudents": 350,
+      "turnos": [
+        {
+          "id": 261,
+          "day": "Monday",
+          "startTime": "9:00",
+          "turn": "PL1",
+          "classroom": "CP2 - 1.12",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 37,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 262,
+          "day": "Tuesday",
+          "startTime": "9:00",
+          "turn": "PL3",
+          "classroom": "CP2 - 2.07",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 36,
+          "teacher": "Pedro Teixeira"
+        },
+        {
+          "id": 263,
+          "day": "Tuesday",
+          "startTime": "9:00",
+          "turn": "PL4",
+          "classroom": "CP2 - 2.08",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "André Ribeiro"
+        },
+        {
+          "id": 264,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "PL2",
+          "classroom": "CP2 - 2.08",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 39,
+          "teacher": "Jorge Fernandes"
+        },
+        {
+          "id": 265,
+          "day": "Tuesday",
+          "startTime": "11:00",
+          "turn": "PL5",
+          "classroom": "CP2 - 2.12",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "Fernando Mina"
+        },
+        {
+          "id": 266,
+          "day": "Wednesday",
+          "startTime": "9:00",
+          "turn": "T1",
+          "classroom": "CP1 - 0.08",
+          "duration": 2,
+          "maxOccupation": 200,
+          "currentOccupation": 178,
+          "teacher": "Fernando Mina"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Ánalise de Projetos",
+      "year": 3,
+      "semester": 2,
+      "abrev": "AP",
+      "regent": "Francisco Coelho",
+      "enrolledStudents": 350,
+      "turnos": [
+        {
+          "id": 267,
+          "day": "Monday",
+          "startTime": "14:00",
+          "turn": "TP1",
+          "classroom": "CP1 - 1.40",
+          "duration": 2,
+          "maxOccupation": 50,
+          "currentOccupation": 50,
+          "teacher": "Francisco Coelho"
+        },
+        {
+          "id": 268,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "T1",
+          "classroom": "CP1 - 1.40",
+          "duration": 1,
+          "maxOccupation": 50,
+          "currentOccupation": 50,
+          "teacher": "Francisco Coelho"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Análise e Teste de Software",
+      "year": 3,
+      "semester": 2,
+      "abrev": "ATS",
+      "regent": "João Saraiva",
+      "enrolledStudents": 350,
+      "turnos": [
+        {
+          "id": 269,
+          "day": "Thursday",
+          "startTime": "9:00",
+          "turn": "PL1",
+          "classroom": "CP1 - 2.22",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "José Miranda"
+        },
+        {
+          "id": 270,
+          "day": "Thursday",
+          "startTime": "14:00",
+          "turn": "T1",
+          "classroom": "CP3 - 1.04",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 35,
+          "teacher": "João Saraiva"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Engenharia Web",
+      "year": 3,
+      "semester": 2,
+      "abrev": "EW",
+      "regent": "Rodrigo Granja",
+      "enrolledStudents": 350,
+      "turnos": [
+        {
+          "id": 271,
+          "day": "Monday",
+          "startTime": "14:00",
+          "turn": "T1",
+          "classroom": "CP2 - 0.20",
+          "duration": 2,
+          "maxOccupation": 60,
+          "currentOccupation": 50,
+          "teacher": "Rodrigo Granja"
+        },
+        {
+          "id": 272,
+          "day": "Monday",
+          "startTime": "16:00",
+          "turn": "TP1",
+          "classroom": "CP7 - 1.09",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 20,
+          "teacher": "Pedro Gomes"
+        },
+        {
+          "id": 273,
+          "day": "Tuesday",
+          "startTime": "14:00",
+          "turn": "TP3",
+          "classroom": "CP7 - 1.09",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 20,
+          "teacher": "Rodrigo Granja"
+        },
+        {
+          "id": 274,
+          "day": "Tuesday",
+          "startTime": "16:00",
+          "turn": "TP2",
+          "classroom": "CP7 - 1.09",
+          "duration": 2,
+          "maxOccupation": 40,
+          "currentOccupation": 20,
+          "teacher": "Rodrigo Granja"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+export default defineNuxtConfig({
+  app: {
+    head: {
+      htmlAttrs: {
+        lang: 'pt'
+      }
+    }
+  },
+  modules: ['@nuxtjs/i18n'],
+  i18n: {
+    locales: [
+      { code: 'pt', name: 'Português', file: 'pt.js' },
+      { code: 'es', name: 'Español', file: 'es.js' },
+      { code: 'en', name: 'English', file: 'en.js' },
+      { code: 'fr', name: 'Français', file: 'fr.js' },
+      { code: 'de', name: 'Deutsch', file: 'de.js' },
+      { code: 'it', name: 'Italiano', file: 'it.js' },
+      { code: 'zh-CN', name: '中国人', file: 'zh-CN.js' }
+    ],
+    lazy: true,
+    langDir: 'lang/',
+    defaultLocale: 'pt',
+    detectBrowserLanguage: {
+      useCookie: true,
+      cookieKey: 'i18n_redirected',
+      redirectOn: 'root'
+    },
+  },
+  css: [
+    '@/assets/css/tailwind.css',
+    '@fortawesome/fontawesome-free/css/all.css'
+  ],
+
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    },
+  },
+
+  components: true,
+  compatibilityDate: '2025-02-21',
+});
